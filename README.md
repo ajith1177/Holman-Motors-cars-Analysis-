@@ -32,6 +32,7 @@ An interactive dashboard is created in Power BI to visualize these data points.
 
 ## Files
 - `Automobile_Project_Dashboard.pbix`: The Power BI file with the interactive dashboard.
+- https://github.com/ajith1177/Holman-Motors-cars-Analysis-/blob/main/Screenshot%20(156).png
 
 ## Conclusion
 The analysis provides valuable insights into the automobile industry, helping to make informed business decisions.
